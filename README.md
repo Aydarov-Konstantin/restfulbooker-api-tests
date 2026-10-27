@@ -121,7 +121,7 @@ GitHub Actions runs the complete API test suite on every push and pull request t
 
 | Tests | Result | Errors | Failures |
 | :---: | :----: | :----: | :------: |
-| 6 | Ready to run | — | — |
+| 6 | ✅ Passed | — | — |
 
 </div>
 
