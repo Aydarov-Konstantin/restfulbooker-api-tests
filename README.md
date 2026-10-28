@@ -125,6 +125,8 @@ GitHub Actions runs the complete API test suite on every push and pull request t
 
 </div>
 
-## Author
+<div align="center">
 
-Aydarov Konstantin
+Maintained by [Konstantin Aydarov](https://github.com/Aydarov-Konstantin)
+
+</div>
